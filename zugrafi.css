@@ -1,0 +1,38 @@
+/*
+ *
+ * ZUGRAFI - custom fonts
+ * Template ZUGRAFI (c) 2017
+ * Author: Rully Shabara
+ * Email : rullyshabara@gmail.com
+ *
+ */
+
+@font-face {
+   font-family: 'zuFont';
+   src: url(../../fonts/zugrafi.ttf);
+}
+
+.act {
+
+ color: white;
+
+}
+
+.gt-space {
+ letter-spacing:-10px; 
+}
+
+.ion {
+ font-family: zuFont;
+ font-size: 25px;
+ display: block;
+ font-style: normal;
+}
+
+.point {
+ cursor:pointer;
+}
+
+.nopoint {
+ cursor:none;
+}

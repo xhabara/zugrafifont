@@ -1,0 +1,43 @@
+/*
+ * ZUGRAFI - Freeware font
+ * Copyright 2017
+ * Author  : rullyshabara@gmail.com
+ */
+
+body {
+    padding-top: 5px; 
+}
+
+@font-face {
+    font-family: bodyFonts;
+    src: url(https://khawagaka.com/dist/fonts/PlayfairDisplaySC-Black.ttf);
+}
+
+.letzug{
+  /*font-family: zugfont;*/
+  letter-spacing: -10px;
+}
+
+.isize {
+  font-size: 50px;
+}
+
+.marg-top10{
+    margin-top: 10px; 
+
+}
+
+.playfair {
+    font-family: bodyFonts;
+}
+
+.full-area {
+    width: 100%;  
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.gt-space{
+   letter-spacing: -10px;
+}
+
